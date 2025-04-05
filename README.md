@@ -12,7 +12,7 @@ Explore edge detection, feature extraction, filtering, image segmentation, and m
 | # | Notebook | Description |
 |--:|----------|-------------|
 | 1 | **Image_Processing_Techniques.ipynb** | Core operations like grayscale conversion, thresholding, smoothing, sharpening, and intensity transformations. |
-| 2 | **Colour_Modules.ipynb** | Color space transformations (RGB ↔ HSV, LAB, YCrCb), channel manipulations, and visualizations. |
+| 2 | **Colour_Modules.ipynb** | Color space transformations (RGB ↔ HSV, CMY), channel manipulations, and visualizations. |
 | 3 | **Image_Transformation.ipynb** | Affine transforms, scaling, rotation, translation, perspective warps. |
 | 4 | **DFT_Histogram_and_Linear_Filtering.ipynb** | Discrete Fourier Transform (DFT), histogram equalization, and spatial domain filtering. |
 | 5 | **Canny_Edge_Detection_LOG_and_DOG.ipynb** | Multi-method edge detection: Canny, Laplacian of Gaussian (LoG), and Difference of Gaussian (DoG). |
