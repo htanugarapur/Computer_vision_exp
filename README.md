@@ -21,6 +21,7 @@ Explore edge detection, feature extraction, filtering, image segmentation, and m
 | 8 | **Hough_and_Harris_Detection.ipynb** | Line detection via Hough Transform and corner detection using the Harris method. |
 | 9 | **GLOH_HOG_DOG_SIFT_ORB.ipynb** | Advanced feature detectors & descriptors: GLOH, HOG, SIFT, ORB, and DoG. |
 |10 | **Segmentation.ipynb** | Image segmentation using thresholding, region growing, contour extraction, and possibly watershed. |
+|11 | **bgextractcv.ipynb** | Video background and foreground extraction, and icluded the motion detection. |
 
 ---
 
@@ -37,6 +38,7 @@ The following sample images are used across various experiments for testing and 
 You can try your own images by replacing these or uploading additional ones to the notebooks.
 
 ---
+
 
 
 ## 📦 Prerequisites
