@@ -1,9 +1,7 @@
 # 🧠 Computer Vision Lab Experiments
 
-Welcome to the **Computer Vision Lab Experiments** repository!  
-This repo contains **computer vision experiments** demonstrating fundamental and advanced techniques in **digital image processing and computer vision**, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib**.
 
-Explore edge detection, feature extraction, filtering, image segmentation, and more – all with practical notebooks and real input images.
+This repo contains **computer vision experiments** demonstrating fundamental and advanced techniques in **digital image processing and computer vision**, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib** with practical notebooks and real inputs for some experiments.
 
 ---
 
@@ -22,6 +20,8 @@ Explore edge detection, feature extraction, filtering, image segmentation, and m
 | 9 | **GLOH_HOG_DOG_SIFT_ORB.ipynb** | Advanced feature detectors & descriptors: GLOH, HOG, SIFT, ORB, and DoG. |
 |10 | **Segmentation.ipynb** | Image segmentation using thresholding, region growing, contour extraction, and possibly watershed. |
 |11 | **bgextractcv.ipynb** | Video background and foreground extraction, and icluded the motion detection. |
+|12  | **OpticalFlow.ipynb** | Motion tracking with Lucas-Kanade Optical Flow algorithm over video or frame sequences. |
+
 
 ---
 
@@ -34,8 +34,9 @@ The following sample images are used across various experiments for testing and 
 - `df.png`
 - `nikolatesla.png`
 - `ww.jpg`
+- `satrain.mp4`
 
-You can try your own images by replacing these or uploading additional ones to the notebooks.
+You can try your own images and videos by replacing these or uploading additional ones to the notebooks.
 
 ---
 
@@ -47,3 +48,9 @@ Make sure you have the following Python libraries installed:
 
 ```bash
 pip install numpy opencv-python matplotlib scikit-image
+
+---
+
+## FYI
+
+- Feel free to contact for the future collaborations or copyright disclaimers.
