@@ -41,6 +41,11 @@ You can try your own images and videos by replacing these or uploading additiona
 ---
 
 
+## 📝 FYI 
+
+Feel free to contact for future collaborations or copyright disclaimers.
+
+---
 
 ## 📦 Prerequisites
 
@@ -49,8 +54,3 @@ Make sure you have the following Python libraries installed:
 ```bash
 pip install numpy opencv-python matplotlib scikit-image
 
----
-
-## FYI
-
-- Feel free to contact for the future collaborations or copyright disclaimers.
