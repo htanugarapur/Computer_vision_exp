@@ -1,7 +1,7 @@
-# 🧠 Computer Vision Lab Experiments
+# 🧠 Computer Vision Experiments
 
 
-This repo contains **computer vision experiments** demonstrating fundamental and advanced techniques in **digital image processing and computer vision**, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib** with practical notebooks and real inputs for some experiments.
+This repo demonstrating fundamental and advanced techniques in **digital image processing and computer vision**, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib** with practical notebooks and real inputs for some experiments.
 
 ---
 
